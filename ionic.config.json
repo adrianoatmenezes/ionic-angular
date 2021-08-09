@@ -1,0 +1,7 @@
+{
+  "name": "controlePonto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
